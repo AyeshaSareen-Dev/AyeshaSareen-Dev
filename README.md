@@ -72,7 +72,6 @@ In the next five years, I aim to:
 - 📧 Email: [ayeshasareen48@gmail.com](mailto:ayeshasareen48@gmail.com)
 - 🔗 LinkedIn: [Ayesha Akter](https://www.linkedin.com/in/ayesha-sareen)
 - 🐙 GitHub: [ayeshaakter](https://github.com/AyeshaSareen-Dev)
-- 🌐 Portfolio: [ayeshaakter.dev](https://ayeshaakter.dev)
 
 ---
 
